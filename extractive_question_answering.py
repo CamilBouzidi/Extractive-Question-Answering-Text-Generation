@@ -1,4 +1,4 @@
-# Thank you to COMP474 Winter 2022 
+# Thank you to COMP474 Winter 2022 team!
 from transformers import AutoTokenizer, TFAutoModelForQuestionAnswering, pipeline
 import tensorflow as tf
 
